@@ -1,0 +1,15 @@
+[
+    {
+      "name": "project1",
+      "live": "https://seir-penguin-project-1-alpha.vercel.app/",
+      "git": "https://github.com/LouisDG6/seir_penguin_project_1",
+      "image": "https://i.imgur.com/lvOW2R8.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://lg-project2.herokuapp.com/segovia",
+      "git": "https://github.com/LouisDG6/project_2",
+      "image": "https://i.imgur.com/R7ZM9uU.png"
+    }
+  ]
+  
